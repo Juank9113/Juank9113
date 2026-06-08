@@ -1,27 +1,23 @@
-### ¡Hola! Soy [Juan Carlos Blanco Ruiz] 👋
+### 👋 ¡Hola! Soy Juan Carlos Blanco Ruiz
 
-🇨🇺 Desarrollador Junior desde Cuba
-💻 Especializándome en Python y automatización
-📈 Apasionado por los mercados financieros y el trading algorítmico
+🇨🇺 Desarrollador Junior desde Cuba  
+💻 Aprendiendo Python y automatización con Linux  
+📈 Trader de XAUUSD | Construyendo herramientas de trading  
 
 ### 🚀 Sobre mí
-- 🔭 Actualmente estoy trabajando en scripts de análisis para XAUUSD
-- 🌱 Aprendiendo desarrollo Backend con Python y Django
+- 🔭 Actualmente creando scripts para automatizar mi trading
+- 🌱 Aprendiendo: Python, Bash, Git y desarrollo Backend
 - 🐧 Usuario de Linux (Debian/Ubuntu)
-- ⚡ Fun fact: Opero oro todos los días mientras programo
+- 💡 Objetivo: Convertirme en desarrollador Python especializado en fintech
 
-### 🛠️ Tecnologías
+### 🛠️ Tecnologías que estoy usando
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 📊 Mis estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juank9113&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juank9113&layout=compact&theme=dark" />
-</p>
+### 📈 Mi enfoque
+Combino mi experiencia en trading de XAUUSD con programación para crear herramientas que automaticen y mejoren el análisis de mercados.
 
 ### 📫 Contáctame
-- LinkedIn: [tu-linkedin](https://linkedin.com/in/tu-usuario)
 - Email: juancarlosblancoruiz@gmail.com
