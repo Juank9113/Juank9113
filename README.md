@@ -1,16 +1,27 @@
-## Hi there 👋
+### ¡Hola! Soy [Juan Carlos Blanco Ruiz] 👋
 
-<!--
-**Juank9113/Juank9113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇨🇺 Desarrollador Junior desde Cuba
+💻 Especializándome en Python y automatización
+📈 Apasionado por los mercados financieros y el trading algorítmico
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+- 🔭 Actualmente estoy trabajando en scripts de análisis para XAUUSD
+- 🌱 Aprendiendo desarrollo Backend con Python y Django
+- 🐧 Usuario de Linux (Debian/Ubuntu)
+- ⚡ Fun fact: Opero oro todos los días mientras programo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 📊 Mis estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark" />
+</p>
+
+### 📫 Contáctame
+- LinkedIn: [tu-linkedin](https://linkedin.com/in/tu-usuario)
+- Email: juancarlosblancoruiz@gmail.com
