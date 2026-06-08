@@ -18,8 +18,8 @@
 
 ### 📊 Mis estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Juank9113&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juank9113&layout=compact&theme=dark" />
 </p>
 
 ### 📫 Contáctame
